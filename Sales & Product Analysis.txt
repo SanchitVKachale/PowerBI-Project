@@ -1,0 +1,12 @@
+Sales & product Analysis:-
+Here we can filter period, categories, sub-categories and products according to the requirements.
+
+Sales Insights:- 
+California is the country having highest sum of sales.
+Chairs, Phones and Storage are the top 3 sub-category in terms of sales.
+Consumer is the segment which has generated highest sales.
+
+
+Products Insights:-
+Here we have calculated both Sum and Profit of the products.
+Copiers have the highest Profit but less Sales generated compared to other products.
